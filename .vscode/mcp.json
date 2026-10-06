@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "special-trout": {
+      "type": "stdio",
+      "command": "python",
+      "args": [
+        "${workspaceFolder}/special_trout/server.py"
+      ]
+    }
+  }
+}
